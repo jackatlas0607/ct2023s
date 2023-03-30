@@ -39,41 +39,60 @@
 
   <!-- Your beautiful SVG code will end here -->
 
-  <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="53.9" style="font-size:3pt;">褚</text>
-  <rect x="50" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="58.733" style="font-size:3pt;">遂</text>
-  <rect x="50" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="63.566" style="font-size:3pt;">良</text>
+  <rect x="45.2" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="46.3" y="53.9" style="font-size:3pt;">C</text>
+  <rect x="45.2" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="46.3" y="58.733" style="font-size:3pt;">A</text>
+  <rect x="45.2" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="46.3" y="63.566" style="font-size:3pt;">N</text>
+  <rect x="45.2" y="64.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="46.3" y="68.566" style="font-size:3pt;">S</text>
+  <rect x="45.2" y="69.4" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="46.3" y="73" style="font-size:3pt;">O</text>
+  <rect x="45.2" y="74.2" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="46.3" y="78" style="font-size:3pt;">N</text>
+
+  <rect x="50" y="50" width="9.65" height="9.65" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="53.9" style="font-size:3pt;">實</text>
+  <rect x="50" y="54.8330" width="9.65" height="9.65" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="58.733" style="font-size:3pt;">屬</text>
+  <rect x="50" y="59.666" width="9.65" height="9.65" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="63.566" style="font-size:3pt;">厲</text>
+  <rect x="50" y="64.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="68.566" style="font-size:3pt;">害</text>
+  <rect x="50" y="69.5" width="9.65" height="9.65" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="76" style="font-size:4.5pt;" font-family="DFKai-sb" fill="red">牛!</text>
 
 
   <rect x="54.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="53.9" style="font-size:3pt;;" fill="blue">資</text>
+  <text x="55.233" y="53.9" style="font-size:3pt;;" fill="blue">計</text>
   <rect x="54.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="58.733" style="font-size:3pt;" fill="blue">工</text>
+  <text x="55.233" y="58.733" style="font-size:3pt;" fill="blue">算</text>
   <rect x="54.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="63.566" style="font-size:3pt;" fill="blue">所</text>
+  <text x="55.233" y="63.566" style="font-size:3pt;" fill="blue">機</text>
+  <rect x="54.833" y="64.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="68.566" style="font-size:3pt;" fill="blue">!!</text>
 
 
   <rect x="59.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="60.066" y="53.9" style="font-size:3pt;">北</text>
   <rect x="59.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="58.733" style="font-size:3pt;">科</text>
+  <text x="60.066" y="58.733" style="font-size:3pt;" font-family="sans-serif">科</text>
   <rect x="59.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
+  <text x="60.066" y="63.566" style="font-size:3pt;" font-family="Arial">大</text>
 
 
 
 
-  <text x="30" y="30" style="font-size:2.5pt;">初號 42pt</text>
-  <text x="30" y="35" style="font-size:2.5pt;">二號 21pt</text>
-  <text x="30" y="40" style="font-size:2.5pt;">五號 10.5pt</text>
+  <text x="30" y="30" style="font-size:1.5pt;">初號 42pt</text>
+  <text x="30" y="35" style="font-size:1.5pt;">二號 21pt</text>
+  <text x="30" y="40" style="font-size:1.5pt;">五號 10.5pt</text>
 
-  <text x="50" y="30" style="font-size:2.5pt;">一號 27.5pt</text>
-  <text x="50" y="35" style="font-size:2.5pt;">四號 13.75pt</text>
+  <text x="50" y="30" style="font-size:1.5pt;">一號 27.5pt</text>
+  <text x="50" y="35" style="font-size:1.5pt;">四號 13.75pt</text>
 
-  <text x="70" y="30" style="font-size:2.5pt;">三號 15.75pt</text>
-  <text x="70" y="35" style="font-size:2.5pt;">六號 7.875pt</text>
+  <text x="70" y="30" style="font-size:1.5pt;">三號 15.75pt</text>
+  <text x="70" y="35" style="font-size:1.5pt; font-family="monospace">六號 7.875pt</text>
 
 </svg>
 
