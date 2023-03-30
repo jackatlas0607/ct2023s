@@ -61,7 +61,7 @@
   <rect x="50" y="64.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="50.4" y="68.566" style="font-size:3pt;">害</text>
   <rect x="50" y="69.5" width="9.65" height="9.65" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="76" style="font-size:4.5pt;" font-family="DFKai-sb" fill="red">牛!</text>
+  <text x="50.4" y="76" style="font-size:4.5pt;" fill="red">牛!</text>
 
 
   <rect x="54.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
@@ -77,10 +77,18 @@
   <rect x="59.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="60.066" y="53.9" style="font-size:3pt;">北</text>
   <rect x="59.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="58.733" style="font-size:3pt;" font-family="sans-serif">科</text>
+  <text x="60.066" y="58.733" style="font-size:3pt;">科</text>
   <rect x="59.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="63.566" style="font-size:3pt;" font-family="Arial">大</text>
+  <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
 
+  <rect x="64.456" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="65" y="53.9" style="font-size:3pt;">地</text>
+  <rect x="64.456" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="65" y="58.733" style="font-size:3pt;">表</text>
+  <rect x="64.456" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="65" y="63.566" style="font-size:3pt;">最</text>
+  <rect x="64.456" y="64.5" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="65" y="68.25" style="font-size:3pt;">強</text>
 
 
 
@@ -92,7 +100,7 @@
   <text x="50" y="35" style="font-size:1.5pt;">四號 13.75pt</text>
 
   <text x="70" y="30" style="font-size:1.5pt;">三號 15.75pt</text>
-  <text x="70" y="35" style="font-size:1.5pt; font-family="monospace">六號 7.875pt</text>
+  <text x="70" y="35" style="font-size:1.5pt;">六號 7.875pt</text>
 
 </svg>
 
